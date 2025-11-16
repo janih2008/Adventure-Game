@@ -1,5 +1,5 @@
 """
-This is an Adventure Game created by Jishnu
+This is an Adventure Game created by Jani Hari
 To comment Ctrl+K+C 
 To Uncomment Ctrl+K+U
 Multi line comment Alt+Shift+A
@@ -150,16 +150,17 @@ def Adventure(user_input):
         Adventure_3()
 
 def Adventure_1():
-    print("Thank U Jithu")
+    print("Thank U Jani")
 
 def Adventure_2():
-    print("Thank U Jithu")
+    print("Thank U Jani")
 
 def Adventure_3():
-    print("Thank U Jithu")
+    print("Thank U Jani")
 
 notify_clear()
 user_info()
 game_intro()
 user_choice()
+
 
